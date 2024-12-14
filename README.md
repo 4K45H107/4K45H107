@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am an undergrad student of CSE, BUET.
 
 
