@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an undergrad student of CSE, BUET. I am currently learning web dev and problem solving. I am enthusiastic about learning new things and technologies.
+I am an undergrad student of CSE, BUET.
 
 
 ## 🌐 Socials:
