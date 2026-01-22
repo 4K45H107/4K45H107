@@ -1,4 +1,5 @@
-# I am an undergrad student of CSE, BUET.
+# Software Engineer I
+# Synesis IT
 
 
 ## 🌐 Socials:
