@@ -1,5 +1,4 @@
-# Software Engineer I
-# Synesis IT
+# Software Engineer I, Synesis IT
 
 
 ## 🌐 Socials:
