@@ -10,6 +10,9 @@ I build backend and full-stack features for **Convay**, an enterprise video conf
 
 My experience, research, projects and achievements in one place: **[fahad-ahmed-akash.vercel.app](https://fahad-ahmed-akash.vercel.app)**
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahadahmed.akash.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahad.akash.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-ahmed-6020992b0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Equal_Palpitation933) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fahadakash11) 
+
 
 ## 💻 Tech stack
 
@@ -37,9 +40,6 @@ My experience, research, projects and achievements in one place: **[fahad-ahmed-
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-## 🤝 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-24283b?style=flat&logo=vercel&logoColor=73daca)](https://fahad-ahmed-akash.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjQiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjQiIGhlaWdodD0iMTIuNSIvPjxwYXRoIGQ9Ik05LjYgOWg0LjJ2MS44Yy42LTEuMSAyLTIuMSA0LjEtMi4xIDQuMyAwIDUuMSAyLjggNS4xIDYuNXY2LjNoLTQuNHYtNS42YzAtMS40IDAtMy4xLTEuOS0zLjFzLTIuMiAxLjUtMi4yIDN2NS43SDkuNnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/fahad-ahmed-4k45h/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=fahad11.ahmed11@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/fahadahmed.akash.5) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fahad.akash.08) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/Equal_Palpitation933) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/fahadakash11)
 
 ## 📊 GitHub stats
 
